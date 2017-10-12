@@ -19,7 +19,10 @@ sap.ui.define(['sap/ui/core/UIComponent'],
                     files : [
                         "Heatmap.view.xml",
                         "Heatmap.controller.js",
-                        "InitPage.js"
+                        "InitPage.js",
+                        "Page.view.xml",
+						"Page.controller.js",
+						"data.json"
                     ]
                 }
             }
