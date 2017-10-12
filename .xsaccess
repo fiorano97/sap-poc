@@ -1,0 +1,22 @@
+{
+    "exposed": true,
+    "authentication": [{
+        "method": "Basic"
+    }],
+
+    "mime_mapping": [{
+        "extension": "jpg",
+        "mimetype": "image/jpeg"
+    }],
+    "force_ssl": false,
+    "enable_etags": false,
+    "prevent_xsrf": false,
+    "anonymous_connection": null,
+    "cors": { "enabled" : true, "allowMethod":["GET","POST","HEAD","DELETE","OPTIONS"],
+
+      "allowOrigin": ["*"],
+
+      "maxAge":"3600"},
+    "cache_control": "no-cache, no-store",
+    "default_file": "index.html"
+}

@@ -1,0 +1,1008 @@
+{
+  "fsh_5": [
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 48357.16, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 327168.6, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 306935.746883744, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 1277436.06, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 162679.55, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 247545.08, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 2432230.24, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2822709.54, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 3961722.93, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 4455044.75, 
+        "BundleName": "1" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 55078.24, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 302884.28, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 79722.17, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2556385.8, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 265708.18, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 463381.89, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 2768941.74, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 3391905.03, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4941898.72, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6178502.3, 
+        "BundleName": "2" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78150.14, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 308062.53, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 405083, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 4014372.37, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 285444.5, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 786617.12, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 3714326.63, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 3571002.95, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 5586675.74, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 7325422.89, 
+        "BundleName": "3" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 75671.72, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 279257.71, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 307830.4, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 4244039.02, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 327879.31, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 683430.52, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1836992.24, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 4305909.41, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 5614225.3, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 7431741.56, 
+        "BundleName": "4" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 91975.85, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 272426.09, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 129821.77, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 3948702.8, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 444815.26, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 789669.28, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 2657053.56, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 3957089.09, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 6056689.72, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 7210281.01, 
+        "BundleName": "5" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "6" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "7" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "8" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "9" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "10" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "11" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "12" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "13" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "14" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "15" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "16" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "17" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "18" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "19" 
+    },
+    {
+        "TubeNumber": "24-Seven", 
+        "Temperature": 78981.02, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "A&A", 
+        "Temperature": 232349.15, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "Alexei's Specialities", 
+        "Temperature": 101783.62, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "All-you-need Store", 
+        "Temperature": 2260302.35, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "BC Market", 
+        "Temperature": 391940.02, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 1", 
+        "Temperature": 415608.05, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 2", 
+        "Temperature": 1591642.4, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 3", 
+        "Temperature": 2851064.95, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 4", 
+        "Temperature": 4118815.31, 
+        "BundleName": "20" 
+    },
+    {
+        "TubeNumber": "Choices Franchise 5", 
+        "Temperature": 6564277.89, 
+        "BundleName": "20" 
+    }
+	
+	
+	
+	
+	]
+}
